@@ -41,7 +41,7 @@ The BBc Microbit has built in Bluetooth which makes wireless communication possi
 ## Microbit Radio Control (Code Blocks)
 Refer to the video at the top of this page for a guide to the Drive Gestures. One Microbit Controls the Robot electronics ([Reciever Code Blocks]()), another sends Arm commands ([Arm Transmitter Code Blocks]()), and the third one sends Drive commands ([Drive Transmitter Code Blocks]()).
 
-1. Download [Buggy.hex]() onto the Robot Microbit board.
+1. Download [Buggy.hex]() onto the Robot.
 2. Download [Arm Remote.hex]() onto the Arm Remote Microbit board.
 3. Download [Drive Remote.hex]() onto the Drive Remote Microbit board.
 
