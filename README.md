@@ -46,4 +46,3 @@ Refer to the video at the top of this page for a guide to the Drive Gestures. On
 3. Download [Drive Remote.hex]() onto the Drive Remote Microbit.
 
 
-
