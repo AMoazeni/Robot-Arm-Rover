@@ -29,10 +29,11 @@ The Robot Arm uses four 9g Servo motors connected directly to the Microbit GPIO 
 | Elbow Servo     | PIN 14 |
 | Gripper Servo   | PIN 15 |
 
-| Tables        | Are           | Cool  |
+| Robot Arm Servo | PIN          | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 | zebra stripes | are neat      |    $1 |
 
 # Code
