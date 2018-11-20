@@ -22,11 +22,13 @@ If you're using the Kitronic All-In-One Robotics board, the [datasheet](https://
 The Robot Arm uses four 9g Servo motors connected directly to the Microbit GPIO PINs and driven by PWM signals. You may need to solder on some female header pins to access the full GPIO of the Microbit board.
 <br>
 <br>
-Robot Arm Servo | PIN Location
-Base Servo | PIN 1
-Shoulder Servo | PIN 13
-Elbow Servo | PIN 14
-Gripper Servo | PIN 15
+| Robot Arm Servo | PIN    |
+| -------------   |:--- --:|
+| Base Servo      | PIN 1  |
+| Shoulder Servo  | PIN 13 |
+| Elbow Servo     | PIN 14 |
+| Gripper Servo   | PIN 15 |
+
 
 
 # Code
