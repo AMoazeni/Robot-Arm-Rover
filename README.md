@@ -22,14 +22,9 @@ If you're using the Kitronic All-In-One Robotics board, the [datasheet](https://
 The Robot Arm uses four 9g Servo motors connected directly to the Microbit GPIO PINs and driven by PWM signals. You may need to solder on some female header pins to access the full GPIO of the Microbit board.
 <br>
 <br>
-| Robot Arm Servo | PIN    |
-| -------------   |:------:|
-| Base Servo      | PIN 1  |
-| Shoulder Servo  | PIN 13 |
-| Elbow Servo     | PIN 14 |
-| Gripper Servo   | PIN 15 |
 
-| Robot Arm Servo | PIN         |
+
+| Robot Arm Servo | PIN    |
 | ------------- |:-------------:|
 | Base Servo      | PIN 1  |
 | Shoulder Servo  | PIN 13 |
@@ -40,9 +35,9 @@ The Robot Arm uses four 9g Servo motors connected directly to the Microbit GPIO 
 The BBc Microbit has built in Bluetooth which makes wireless communication possible. This means you can control the robot with other Microbit board, as well as a smartphone!
 
 ## Smartphone App Control (C++)
-1. Install the Microbit App for [iPhone]() or [Android]().
+1. Install the Microbit App for [iPhone](https://itunes.apple.com/us/app/micro-bit/id1092687276?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.samsung.microbit).
 2. Download Robot [C++ code]() from this repository.
-3. Upload C++ code to Microbit using the [YOTTA offline compiler](). More info at [BBC Microbit C++ Documentation]().
+3. Upload C++ code to Microbit using the [YOTTA offline compiler](https://lancaster-university.github.io/microbit-docs/offline-toolchains/). More info at [BBC Microbit C++ Documentation](https://lancaster-university.github.io/microbit-docs/ble/profile/).
 4. Bluetooth pair the Microbit with your phone.
 5. Drive it around using the D-PAD Joystick built into the app.
 
