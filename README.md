@@ -1,31 +1,32 @@
 # Robot Arm Rover
 Gesture controlled Robot Arm mounted on a Buggy chassis using the BBC Microbit board.
-<br>
+<br><br>
 [![Robot Arm Rover](https://img.youtube.com/vi/7o0pC0yS0pI/0.jpg)](https://www.youtube.com/watch?v=7o0pC0yS0pI)
 
 # Materials list
 You make the Buggy Chassis and Robot Arm from scratch using a laser cutter (cardboard, plywood or plastic) or a 3D printer. The following is a list of materials needed for this project, purchase URLs included:
 
-1. [BBC Microbit board]()
-2. Motor Driver Board for the Microbit: [Sparkfun Crikit Board]() or [Kitronik All-In-One Robotics Board]()
-3. [Buggy Chassis](), [Motors](), [Wheels]()
-4. [meArm Robot Arm]() (Laser Cutter file included in this repository)
+1. [BBC Microbit board](https://microbit.org/resellers/)
+2. Motor Driver Board for the Microbit: [Adafruit Crikit Board](https://www.adafruit.com/product/3928) or [Kitronik All-In-One Robotics Board](https://www.kitronik.co.uk/5641-all-in-one-robotics-board-for-bbc-microbit.html)
+3. [Buggy Chassis](https://www.sparkfun.com/products/13301), [Motors](https://www.sparkfun.com/products/13302), [Wheels](https://www.sparkfun.com/products/13259)
+4. [meArm Robot Arm](https://bit.ly/2DA4IzO) (Laser Cutter file included in this repository)
 
 
 # Build instructions
-Go to the following links to get build instructions for the [Chassis]() and [Robot Arm](). 
+Go to the following links to get build instructions for the [Chassis](https://learn.sparkfun.com/tutorials/microbot-kit-experiment-guide/assembling-your-robot) and [Robot Arm](https://learn.mime.co.uk/assets/docs/control-your-mearm-from-arduino/MeArm_v1.0_Manual_for_Arduino_v1.0.pdf). 
 <br>
 <br>
-If you're using the Kitronic All-In-One Robotics board, the [datasheet]() shows that PINs 0, 8, 12, and 16 are used to control the wheels. You can flip the RED/BLACK motor wires to reverse motor direction to match software commands.
+If you're using the Kitronic All-In-One Robotics board, the [datasheet](https://www.kitronik.co.uk/pdf/5641-microbit-robotics-board-datasheet.pdf) shows that PINs 0, 8, 12, and 16 are used to control the wheels. You can flip the RED/BLACK motor wires to reverse motor direction to match software commands.
 <br>
 <br>
 The Robot Arm uses four 9g Servo motors connected directly to the Microbit GPIO PINs and driven by PWM signals. You may need to solder on some female header pins to access the full GPIO of the Microbit board.
 <br>
 <br>
-1. Robot Arm Base Servo -> PIN 1
-2. Robot Arm Shoulder Servo -> PIN 13
-3. Robot Arm Elbow Servo -> PIN 14
-4. Robot Arm Gripper Servo -> PIN 15
+Robot Arm Servo | PIN Location
+Base Servo | PIN 1
+Shoulder Servo | PIN 13
+Elbow Servo | PIN 14
+Gripper Servo | PIN 15
 
 
 # Code
