@@ -29,12 +29,12 @@ The Robot Arm uses four 9g Servo motors connected directly to the Microbit GPIO 
 | Elbow Servo     | PIN 14 |
 | Gripper Servo   | PIN 15 |
 
-| Robot Arm Servo | PIN          | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| zebra stripes | are neat      |    $1 |
+| Robot Arm Servo | PIN         |
+| ------------- |:-------------:|
+| Base Servo      | PIN 1  |
+| Shoulder Servo  | PIN 13 |
+| Elbow Servo     | PIN 14 |
+| Gripper Servo   | PIN 15 |
 
 # Code
 The BBc Microbit has built in Bluetooth which makes wireless communication possible. This means you can control the robot with other Microbit board, as well as a smartphone!
