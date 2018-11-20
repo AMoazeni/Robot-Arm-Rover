@@ -1,7 +1,7 @@
 # Robot Arm Rover
 Gesture controlled Robot Arm mounted on a Buggy chassis using the BBC Microbit board.
 <br><br>
-[![Robot Arm Rover](https://img.youtube.com/vi/7o0pC0yS0pI/0.jpg)](https://www.youtube.com/watch?v=7o0pC0yS0pI)
+[![Robot Arm Rover](https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/Robot%20Arm%20Rover.JPG)](https://www.youtube.com/watch?v=7o0pC0yS0pI)
 
 # Materials list
 You make the Buggy Chassis and Robot Arm from scratch using a laser cutter (cardboard, plywood or plastic) or a 3D printer. The following is a list of materials needed for this project, purchase URLs included:
