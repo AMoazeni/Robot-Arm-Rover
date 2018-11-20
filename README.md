@@ -37,7 +37,7 @@ The BBc Microbit has built in Bluetooth which makes wireless communication possi
 
 ## Smartphone App Control (C++)
 1. Install the Microbit App for [iPhone](https://itunes.apple.com/us/app/micro-bit/id1092687276?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.samsung.microbit).
-2. Download Robot [C++ code]() from this repository.
+2. Download Robot [C++ code](https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/C%2B%2B%20Code/Robot%20Arm%20Rover.cpp) from this repository or the [compiled .hex file](https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/C%2B%2B%20Code/Robot%20Arm%20Rover.hex).
 3. Upload C++ code to Microbit using the [YOTTA offline compiler](https://lancaster-university.github.io/microbit-docs/offline-toolchains/). More info at [BBC Microbit C++ Documentation](https://lancaster-university.github.io/microbit-docs/ble/profile/).
 4. Bluetooth pair the Microbit with your phone.
 5. Drive it around using the D-PAD Joystick built into the app.
