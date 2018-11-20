@@ -1,6 +1,7 @@
 # Robot Arm Rover
 Gesture controlled Robot Arm mounted on a Buggy chassis using the BBC Microbit board.
 <br><br>
+
 [![Robot Arm Rover](https://img.youtube.com/vi/7o0pC0yS0pI/0.jpg)](https://www.youtube.com/watch?v=7o0pC0yS0pI)
 
 # Materials list
@@ -42,10 +43,10 @@ The BBc Microbit has built in Bluetooth which makes wireless communication possi
 5. Drive it around using the D-PAD Joystick built into the app.
 
 ## Microbit Radio Control (Code Blocks)
-Refer to the video at the top of this page for a guide to the Drive Gestures. One Microbit Controls the Robot electronics ([Robot Reciever Blocks]()), another sends Arm commands ([Arm Remote Transmitter Blocks]()), and the third one sends Drive commands ([Drive Remote Transmitter]()).
+Refer to the video at the top of this page for a guide to the Drive Gestures. One Microbit Controls the Robot electronics (Reciever), another sends Arm commands (Transmitter), and the third one sends Drive commands (Drive Remote).
 
-1. Download [Buggy.hex]() onto the Robot.
-2. Download [Arm Remote.hex]() onto the Arm Remote Microbit.
-3. Download [Drive Remote.hex]() onto the Drive Remote Microbit.
+1. Download [Buggy.hex](https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/Javascripts%20Code%20Blocks/Robot.hex) onto the Robot.
+2. Download [Arm Remote.hex](https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/Javascripts%20Code%20Blocks/Arm%20Remote.hex) onto the Arm Remote Microbit.
+3. Download [Drive Remote.hex](https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/Javascripts%20Code%20Blocks/Drive%20Remote.hex) onto the Drive Remote Microbit.
 
 
