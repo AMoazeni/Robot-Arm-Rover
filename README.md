@@ -23,7 +23,7 @@ The Robot Arm uses four 9g Servo motors connected directly to the Microbit GPIO 
 <br>
 <br>
 | Robot Arm Servo | PIN    |
-| -------------   |:--- --:|
+| -------------   |:------:|
 | Base Servo      | PIN 1  |
 | Shoulder Servo  | PIN 13 |
 | Elbow Servo     | PIN 14 |
