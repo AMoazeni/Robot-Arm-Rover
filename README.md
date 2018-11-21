@@ -1,6 +1,9 @@
 # Robot Arm Rover
 Gesture controlled Robot Arm mounted on a Buggy chassis using the BBC Microbit board.
 <br><br>
+[!https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/Robot%20Arm%20Rover.JPG](https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/Robot%20Arm%20Rover.JPG)
+
+<br><br>
 
 [![Robot Arm Rover](https://img.youtube.com/vi/7o0pC0yS0pI/0.jpg)](https://www.youtube.com/watch?v=7o0pC0yS0pI)
 
