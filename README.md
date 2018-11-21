@@ -20,7 +20,7 @@ You make the Buggy Chassis and Robot Arm from scratch using a laser cutter (card
 Go to the following links to get build instructions for the [Chassis](https://learn.sparkfun.com/tutorials/microbot-kit-experiment-guide/assembling-your-robot) and [Robot Arm](https://learn.mime.co.uk/assets/docs/control-your-mearm-from-arduino/MeArm_v1.0_Manual_for_Arduino_v1.0.pdf). 
 <br>
 <br>
-If you're using the Kitronic All-In-One Robotics board, the [datasheet](https://www.kitronik.co.uk/pdf/5641-microbit-robotics-board-datasheet.pdf) shows that PINs 0, 8, 12, and 16 are used to control the wheels. You can flip the RED/BLACK motor wires to reverse motor direction to match software commands.
+If you're using the Kitronik All-In-One Robotics board, the [datasheet](https://www.kitronik.co.uk/pdf/5641-microbit-robotics-board-datasheet.pdf) shows that PINs 0, 8, 12, and 16 are used to control the wheels. You can flip the RED/BLACK motor wires to reverse motor direction to match software commands.
 <br>
 <br>
 The Robot Arm uses four 9g Servo motors connected directly to the Microbit GPIO PINs and driven by PWM signals. You may need to solder on some female header pins to access the full GPIO of the Microbit board.
@@ -46,7 +46,7 @@ The BBc Microbit has built in Bluetooth which makes wireless communication possi
 5. Drive it around using the D-PAD Joystick built into the app.
 
 ## Microbit Radio Control (Code Blocks)
-Refer to the video at the top of this page for a guide to the Drive Gestures. One Microbit Controls the Robot electronics (Reciever), another sends Arm commands (Transmitter), and the third one sends Drive commands (Drive Remote).
+Refer to the video at the top of this page for a guide to the Drive Gestures. One Microbit Controls the Robot electronics (Receiver), another sends Arm commands (Transmitter), and the third one sends Drive commands (Drive Remote).
 
 1. Download [Buggy.hex](https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/Javascripts%20Code%20Blocks/Robot.hex) onto the Robot.
 2. Download [Arm Remote.hex](https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/Javascripts%20Code%20Blocks/Arm%20Remote.hex) onto the Arm Remote Microbit.
