@@ -7,10 +7,10 @@ Gesture controlled Robot Arm mounted on a Buggy chassis using the BBC Microbit b
 # Materials list
 You make the Buggy Chassis and Robot Arm from scratch using a laser cutter (cardboard, plywood or plastic) or a 3D printer. The following is a list of materials needed for this project, purchase URLs included:
 
-1. [BBC Microbit board](https://microbit.org/resellers/)
-2. Motor Driver Board for the Microbit: [Adafruit Crikit Board](https://www.adafruit.com/product/3928) or [Kitronik All-In-One Robotics Board](https://www.kitronik.co.uk/5641-all-in-one-robotics-board-for-bbc-microbit.html)
-3. [Buggy Chassis](https://www.sparkfun.com/products/13301), [Motors](https://www.sparkfun.com/products/13302), [Wheels](https://www.sparkfun.com/products/13259)
-4. [meArm Robot Arm](https://bit.ly/2DA4IzO) (Laser Cutter file included in this repository)
+- [BBC Microbit board](https://microbit.org/resellers/)
+- Motor Driver Board for the Microbit: [Adafruit Crikit Board](https://www.adafruit.com/product/3928) or [Kitronik All-In-One Robotics Board](https://www.kitronik.co.uk/5641-all-in-one-robotics-board-for-bbc-microbit.html)
+- [Buggy Chassis](https://www.sparkfun.com/products/13301), [Motors](https://www.sparkfun.com/products/13302), [Wheels](https://www.sparkfun.com/products/13259)
+- [meArm Robot Arm](https://bit.ly/2DA4IzO) (Laser Cutter file included in this repository)
 
 
 # Build instructions
