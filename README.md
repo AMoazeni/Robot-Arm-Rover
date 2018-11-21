@@ -38,14 +38,14 @@ The Robot Arm uses four 9g Servo motors connected directly to the Microbit GPIO 
 # Code
 The BBc Microbit has built in Bluetooth which makes wireless communication possible. This means you can control the robot with other Microbit board, as well as a smartphone!
 
-## Smartphone App Control (C++)
+### Smartphone App Control (C++)
 1. Install the Microbit App for [iPhone](https://itunes.apple.com/us/app/micro-bit/id1092687276?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.samsung.microbit).
 2. Download Robot [C++ code](https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/C%2B%2B%20Code/Robot%20Arm%20Rover.cpp) from this repository or the [compiled .hex file](https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/C%2B%2B%20Code/Robot%20Arm%20Rover.hex).
 3. Upload C++ code to Microbit using the [YOTTA offline compiler](https://lancaster-university.github.io/microbit-docs/offline-toolchains/). More info at [BBC Microbit C++ Documentation](https://lancaster-university.github.io/microbit-docs/ble/profile/).
 4. Bluetooth pair the Microbit with your phone.
 5. Drive it around using the D-PAD Joystick built into the app.
 
-## Microbit Radio Control (Code Blocks)
+### Microbit Radio Control (Code Blocks)
 Refer to the video at the top of this page for a guide to the Drive Gestures. One Microbit Controls the Robot electronics (Receiver), another sends Arm commands (Transmitter), and the third one sends Drive commands (Drive Remote).
 
 1. Download [Buggy.hex](https://github.com/AMoazeni/Robot-Arm-Rover/blob/master/Javascripts%20Code%20Blocks/Robot.hex) onto the Robot.
