@@ -1,6 +1,6 @@
 # Robot Arm Rover (Video)
 
-<br><br>
+<br>
 
 [![Robot Arm Rover](https://img.youtube.com/vi/7o0pC0yS0pI/0.jpg)](https://www.youtube.com/watch?v=7o0pC0yS0pI)
 
