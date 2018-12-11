@@ -2,7 +2,7 @@
 
 <br>
 
-[![Robot Arm Rover](https://img.youtube.com/vi/7o0pC0yS0pI/0.jpg)](https://www.youtube.com/watch?v=7o0pC0yS0pI)
+[![Robot Arm Rover](https://img.youtube.com/vi/7o0pC0yS0pI/0.jpg)](https://youtu.be/5qNul1RJgb8)
 
 # Materials list
 You make the Buggy Chassis and Robot Arm from scratch using a laser cutter (cardboard, plywood or plastic) or a 3D printer. The following is a list of materials needed for this project, purchase URLs included:
